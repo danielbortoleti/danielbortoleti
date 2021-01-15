@@ -9,10 +9,7 @@
 </p>
 
 <p align="left">
-  📚 Languages: <strong>"HTML5", "CSS3", JS, ReactJS, BootStrap, PHP, NodeJs .</strong>
-</p>
-<p align="left">
-  💼⚙ Tools: <strong>VsCode, Git, GitHub.</strong>
+  💼⚙ Tools: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, PHP, NodeJs, VsCode, Git, GitHub.</strong> 
 </p>
 <p align="left">
   💌 Did you like what you saw? contact us below: ⤵️
