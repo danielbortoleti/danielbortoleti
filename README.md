@@ -4,12 +4,12 @@
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
-  Passionate about System Development and UX<br>
+  Passionate about System Development and UX<br><br>
   Today I am dedicated to personal projects and learning new technologies and frameworks.
 </p>
 
 <p align="left">
-  📚 Languages: <strong>HTML5, CSS3, JS, ReactJS, BootStrap,PHP, NodeJs .</strong>
+  📚 Languages: <strong>HTML5, CSS3, JS, ReactJS, BootStrap, PHP, NodeJs .</strong>
 </p>
 <p align="left">
   💼⚙ Tools: <strong>VsCode, Git, GitHub.</strong>
