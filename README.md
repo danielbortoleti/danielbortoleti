@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 
-<img src="https://www.pikpng.com/pngl/m/75-758785_mundo-da-tecnologia-png-sphere-clipart.png" min-width="400px" max-width="400px" width="400px" align="right" alt="World">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="World">
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
