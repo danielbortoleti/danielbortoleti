@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQGtYRz5q5oXLQ/feedshare-shrink_800/0/1614602309251?e=1617235200&v=beta&t=TYPtrcnJeJCOddxzLUf7nzV9KitU4sd5E8PpMY63Kxw" min-width="400px" max-width="400px" width="400px" align="right" alt="Boy">
+<img src="https://www.pikpng.com/pngl/m/75-758785_mundo-da-tecnologia-png-sphere-clipart.png" min-width="400px" max-width="400px" width="400px" align="right" alt="World">
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
