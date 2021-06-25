@@ -5,7 +5,7 @@
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
   Passionate about System Development and UX<br><br>
-  Today I am dedicated to personal projects and learning new technologies and frameworks.
+  Today I'm work at Hospital Sírio Libanês 
 </p>
 
 <p align="left">
