@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 
-<img src="mundo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="World">
+<img src="daniel.png" min-width="400px" max-width="400px" width="400px" align="right" alt="World">
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
