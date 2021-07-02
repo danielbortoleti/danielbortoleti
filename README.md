@@ -16,7 +16,6 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-bortoleti-melo-67b153150/" alt="Linkedin">
-  <img src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511958661314" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511958661314"/></a>
 </p>  
