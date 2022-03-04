@@ -20,7 +20,7 @@
 </div>  <br>
  
 <p align="left">
-  💌 Did you like what you saw? contact us below: ⤵️
+  💌 Did you like what you saw? contact us below:⤵️
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-bortoleti-melo-67b153150/" alt="Linkedin">
