@@ -5,7 +5,7 @@
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
   Passionate about System Development and UX<br><br>
-  Today I'm work at Hospital Sírio Libanês 🏥 
+  Today I'm working at Hospital Sírio Libanês 🏥 
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
