@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 
-<img src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif" width="300px" height="300px" align="right" alt="Matrix">
+<img src="he_sitting_with_notebook.png" width="300px" height="300px" align="right" alt="boy-pc">
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
