@@ -24,8 +24,8 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-bortoleti-melo-67b153150/" alt="Linkedin">
-  <img height="30" width="120" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-bortoleti-melo-67b153150/"/></a>
+  <img height="30" width="40" src="linkedin.png"/></a>
   <a href="https://api.whatsapp.com/send?phone=5511958661314" alt="WhatsApp">
-  <img height="30" width="120" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511958661314"/></a>
+  <img height="30" width="40" src="whatsapp.png"/></a>
 </p>  
 </strong>
