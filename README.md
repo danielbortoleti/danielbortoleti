@@ -3,7 +3,7 @@
 <img src="boy.png" width="350px" height="300px" align="right" alt="boy-pc">
 
 <p align="left"> 
-  My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong> 🇧🇷<br>
+  My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong>💚💛<br>
   Passionate about System Development and UX<br><br>
   Today I'm working at Hospital Sírio Libanês 🏥 
 </p>
