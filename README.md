@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 <strong>
-<img src="boy.png" width="350px" height="300px" align="right" alt="boy-pc">
+<img src="boy.gif" width="350px" height="300px" align="right" alt="boy-pc">
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong>💚💛<br>
