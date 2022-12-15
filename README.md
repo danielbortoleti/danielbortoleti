@@ -4,7 +4,7 @@
 
 <p align="left"> 
   My name is <strong>Daniel Bortoleti Melo</strong>, from <strong>Brazil</strong>💚💛<br>
-  Passionate about System Development and UX<br><br>
+  Passionate about System Development<br><br>
   Today I'm working at Hospital Sírio Libanês 🏥 
 </p>
 <div style="display: inline_block"><br>
@@ -16,7 +16,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>  <br>
  
 <p align="left">
