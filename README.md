@@ -22,7 +22,7 @@
   💌 Did you like what you saw? contact us below:⤵️
 </p>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/daniel-bortoleti-melo-67b153150](https://www.linkedin.com/in/daniel-bortoleti-melo/)/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/daniel-bortoleti-melo/" alt="Linkedin">
   <img height="30" width="40" src="linkedin.png"/></a>
   <a href="https://api.whatsapp.com/send?phone=5511958661314" alt="WhatsApp">
   <img height="30" width="40" src="whatsapp.png"/></a>
